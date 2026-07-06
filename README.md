@@ -9,7 +9,6 @@ A production-quality iOS app that continuously monitors microphone input, detect
 **Requirements:**
 
 - Xcode 16 or later (projectxq uses `PBXFileSystemSynchronizedRootGroup`)
-- Physical iOS device (the simulator cannot capture microphone audio from a real clap)
 - iOS 17.0+ deployment target (project is currently set to 26.4 / iOS 18 SDK)
 - A valid development team for code signing
 
