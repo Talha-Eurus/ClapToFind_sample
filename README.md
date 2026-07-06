@@ -27,7 +27,4 @@ A production-quality iOS app that continuously monitors microphone input, detect
 
 ## Minimum iOS Version
 
-**iOS 17.0** — required for `@Observable` macro (replaces `ObservableObject` and `@Published`).
----
-
-\
+**iOS 17.0** — required
