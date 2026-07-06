@@ -10,7 +10,6 @@ A production-quality iOS app that continuously monitors microphone input, detect
 
 - Xcode 16 or later (projectxq uses `PBXFileSystemSynchronizedRootGroup`)
 - iOS 17.0+ deployment target (project is currently set to 26.4 / iOS 18 SDK)
-- A valid development team for code signing
 
 **Steps:**
 
